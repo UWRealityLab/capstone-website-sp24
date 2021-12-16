@@ -1,0 +1,18 @@
+.results-carousel {
+    overflow: hidden;
+}
+
+.results-carousel .item {
+    margin: 5px;
+    overflow: hidden;
+    border: 1px solid #bbb;
+    border-radius: 10px;
+    padding: 0;
+    font-size: 0;
+}
+
+.results-carousel .item img {
+    height: 300px;
+    object-fit: cover;
+    overflow: hidden;
+}
